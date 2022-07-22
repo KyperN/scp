@@ -1,0 +1,13 @@
+.tasks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 500px;
+}
+.btn-block {
+  display: flex;
+  flex-direction: column;
+}

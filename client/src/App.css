@@ -1,0 +1,16 @@
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  background: #ffcdd2;
+}
+
+.title {
+  color: #ffeeff;
+  font-size: 25px;
+  text-transform: uppercase;
+  transition-duration: 0.5s;
+}
+.title:hover {
+  letter-spacing: 4px;
+}
